@@ -1,0 +1,12 @@
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+beautifulsoup4
+tldextract
+python-whois
+joblib
+python-dotenv
