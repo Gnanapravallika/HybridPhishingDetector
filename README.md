@@ -37,10 +37,24 @@ This project **hybridizes multiple data sources** (URL, HTML, VirusTotal), adds 
 
 HybridPhishingDetector/
 ├── phishing_detector.py # Main Python logic
+
+
 ├── phishing_detection_notebook.ipynb # Jupyter version (optional)
+
+
 ├── requirements.txt # Python dependencies
+
+
 ├── .env # VirusTotal API key (user sets)
+
+
 ├── evaluation_metrics_plot.png # Accuracy, Precision, F1, Recall
+
+
 ├── loss_comparison_plot.png # ML vs DL vs Hybrid loss chart
+
+
 ├── Phishing_Detection_Final_Report.pdf # Formal project report
+
+
 └── README.md # You're here
